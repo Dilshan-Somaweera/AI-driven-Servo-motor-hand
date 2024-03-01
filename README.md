@@ -1,1 +1,1 @@
-# AI driven servo motor hand
+# AI Controlled servo motor hand
